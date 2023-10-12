@@ -14,14 +14,14 @@ int main () {
                         {"NKB057", "Pace", "Uruguay"}, {"FAK494", "Huffman", "Chile"},
                         {"BPX098", "Dillon", "Uruguay"}, {"YVA670", "Costa", "Brasil"}};
 
-    Pedido pedidos[] = { {"TTT852", "Hodge", 66684}, {"FSV513", "Velez", 94296},
-                            {"BKZ306", "Jimenez", 23890}, {"ZBL377", "Nash", 41158},
-                            {"JYN372", "Best", 87395}, {"KMP974", "Rasmussen", 17920},
-                            {"LZE481", "Maxwell", 20090}, {"TPA966", "Strong", 42577},
-                            {"KXK787", "Morrison", 99345}, {"TTS710", "Melendez", 60177},
-                            {"GHL919", "Murray", 11362}, {"TDI943", "Lane", 69534},
-                            {"FBQ848", "Sheppard", 16417}, {"RSU086", "England", 34423},
-                            {"CFU609", "Carr", 93180}};
+    Pedido pedidos[] = { {"TTT852", "BPX098", 66684}, {"FSV513", "RXD479", 94296},
+                            {"BKZ306", "FAK494", 23890}, {"ZBL377", "FAK494", 41158},
+                            {"JYN372", "GGD354", 87395}, {"KMP974", "BPX098", 17920},
+                            {"LZE481", "IRC985", 20090}, {"TPA966", "RXD479", 42577},
+                            {"KXK787", "BPX098", 99345}, {"TTS710", "GGD354", 60177},
+                            {"GHL919", "BPX098", 11362}, {"TDI943", "NKB057", 69534},
+                            {"FBQ848", "GGD354", 16417}, {"RSU086", "NKB057", 34423},
+                            {"CFU609", "BPX098", 93180}};
 
     /* Desarrollar lo pedido... */
     return 0;
