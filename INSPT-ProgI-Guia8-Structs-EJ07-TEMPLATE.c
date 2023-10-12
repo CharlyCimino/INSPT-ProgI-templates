@@ -4,7 +4,7 @@
 // Definir prototipos de las funciones
 
 #define CANT_VIAJES 30 // NO MODIFICAR
-#define CANT_CHOFERES 10 // NO MODIFICAR
+#define CANT_CHOFERES 20 // NO MODIFICAR
 #define CANT_CAMIONES 10 // NO MODIFICAR
 
 int main () {
